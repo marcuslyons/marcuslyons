@@ -8,4 +8,4 @@
 
 ![Twitch Status](https://img.shields.io/twitch/status/marcuslyons_?style=social)
 
-[Blog](https://www.marcuslyons.com/writing?utm_campaign=profile-readme&utm_source=GitHub&utm_medium=organic&utm_content=04-04-2020-2028)
+[Blog](https://www.marcuslyons.com/?utm_campaign=profile-readme&utm_source=GitHub&utm_medium=organic&utm_content=04-04-2020-2028)
